@@ -1,3 +1,3 @@
 # samplerepo
 sample repository
-This is my repository
+This rTech's sample repository
